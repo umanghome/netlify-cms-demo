@@ -1,7 +1,1 @@
-users:
-  - admin: false
-    username: foo
-  - admin: true
-    username: bar
-  - admin: false
-    username: baz
+
