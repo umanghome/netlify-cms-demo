@@ -1,0 +1,22 @@
+backend:
+  name: github
+  repo: umanghome/netlify-cms-demo
+publish_mode: editorial_workflow
+media_folder: "media"
+collections:
+  - label: "Users"
+    name: "users"
+    editor:
+      preview: false
+    identifier_field: name
+    delete: false
+    extension: yml
+    format: yml
+    files:
+      - label: "List of users (GitHub)"
+        name: "list"
+        file: "list.yml"
+        fields:
+          - label: "Users"
+            name: "users"
+            widget: "users-list"

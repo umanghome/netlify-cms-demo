@@ -1,5 +1,4 @@
-const myFn = () => {
-  console.log('test');
-}
+import CMS from 'netlify-cms';
+import { UsersList } from './users-list';
 
-myFn();
+CMS.registerWidget('users-list', UsersList);
