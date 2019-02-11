@@ -1,6 +1,7 @@
-filecontent:
-  another: {}
-  bar: {}
-  foo: {}
-  test: {}
-  user: {}
+users:
+  - admin: false
+    username: foo
+  - admin: true
+    username: bar
+  - admin: false
+    username: baz
