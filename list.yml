@@ -1,1 +1,3 @@
-filecontent: Test
+filecontent: |-
+  Foo
+  bar
