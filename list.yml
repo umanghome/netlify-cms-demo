@@ -1,3 +1,4 @@
 users:
   test: null
-  umanghome: null
+  umanghome:
+    admin: true
