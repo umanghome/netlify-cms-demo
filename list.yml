@@ -1,4 +1,6 @@
 filecontent:
-  - foo
-  - bar
-  - test
+  another: {}
+  bar: {}
+  foo: {}
+  test: {}
+  user: {}
