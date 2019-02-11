@@ -1,2 +1,4 @@
-foo:
-bar:
+users:
+  test: null
+  umanghome:
+    admin: true
