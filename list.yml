@@ -1,4 +1,4 @@
-filecontent: |-
-  Foo
-  bar
-  test
+filecontent:
+  - foo
+  - bar
+  - test
